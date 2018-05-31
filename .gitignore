@@ -1,0 +1,11 @@
+rserver
+rclient
+r-type
+build
+Release
+*~
+*#
+*.o
+*.so
+.vs
+.vscode
